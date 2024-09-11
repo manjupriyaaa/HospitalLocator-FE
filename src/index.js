@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 //TODO 1 enter your key from geocode here
-export const GEOCODE_API_KEY="";
+export const GEOCODE_API_KEY="66c5f5b828787858051289qgv261131";
 
 //TODO 2 enter your function app url here
 export const FUNCTION_APP_URL="http://localhost:7071/api/getHospitalsList";
